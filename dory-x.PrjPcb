@@ -450,6 +450,10 @@ DocumentUniqueId=LBKPARLL
 DocumentPath=
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
