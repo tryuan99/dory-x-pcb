@@ -485,78 +485,82 @@ DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for dory-x\BOM\BOM-DORY.xlsx
+DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for dory-x\NC Drill\DORY.DRR
+DocumentPath=Project Outputs for dory-x\BOM\BOM-DORY.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.EXTREP
+DocumentPath=Project Outputs for dory-x\NC Drill\DORY.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.G1
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.G2
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBL
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBO
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBP
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBS
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GM
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTL
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GM
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTO
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTP
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTS
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for dory-x\NC Drill\DORY.LDP
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for dory-x\PCB 3D Print\DORY.png
+DocumentPath=Project Outputs for dory-x\NC Drill\DORY.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for dory-x\Gerber\DORY.REP
+DocumentPath=Project Outputs for dory-x\PCB 3D Print\DORY.png
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for dory-x\NC Drill\DORY.TXT
+DocumentPath=Project Outputs for dory-x\Gerber\DORY.REP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for dory-x\NC Drill\DORY.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for dory-x\Pick Place\Pick Place for DORY.txt
 DItemRevisionGUID=
 
