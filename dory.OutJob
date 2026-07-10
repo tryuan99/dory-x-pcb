@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother MFC-J6945DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -239,7 +239,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\tryua\Documents\Altium\dory-x\Project Outputs for dory-x\
+OutputFilePath3=C:\Users\tryua\Documents\Altium\dory-x\Project Outputs for dory-x
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for dory-x
 OutputPathMedia3=
@@ -293,7 +293,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\tryua\Documents\Altium\bailey\Project Outputs for bailey\PDF\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\tryua\Documents\Altium\dory-x\Project Outputs for dory-x\
+RelativeOutputPath3=C:\Users\tryua\Documents\Altium\dory-x\Project Outputs for dory-x
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
